@@ -14,6 +14,7 @@ import java.util.List;
 public class ClientRestExcerciseApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(ClientRestExcerciseApplication.class, args);
 	}
 

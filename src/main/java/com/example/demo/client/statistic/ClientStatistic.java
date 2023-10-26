@@ -1,4 +1,4 @@
-package com.example.demo.client;
+package com.example.demo.client.statistic;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
